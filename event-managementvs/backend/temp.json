@@ -1,0 +1,70 @@
+{
+  "id": 9,
+  "name": "Hackathon Tech",
+  "category": "poster",
+  "preview_url": null,
+  "fabric_json": {
+    "width": 800,
+    "height": 500,
+    "objects": [
+      {
+        "top": 0,
+        "fill": "#020617",
+        "left": 0,
+        "type": "rect",
+        "width": 800,
+        "height": 500,
+        "originX": "left",
+        "originY": "top",
+        "selectable": false
+      },
+      {
+        "top": 420,
+        "fill": "#22c55e",
+        "left": 0,
+        "type": "rect",
+        "width": 800,
+        "height": 80,
+        "originX": "left",
+        "originY": "top",
+        "selectable": false
+      },
+      {
+        "top": 80,
+        "fill": "#22c55e",
+        "left": 400,
+        "text": "24 HOUR HACKATHON",
+        "type": "text",
+        "originX": "center",
+        "originY": "center",
+        "fontSize": 38,
+        "customType": "title",
+        "fontWeight": "bold"
+      },
+      {
+        "top": 160,
+        "fill": "#cbd5f5",
+        "left": 400,
+        "text": "Build \u2022 Innovate \u2022 Compete",
+        "type": "text",
+        "originX": "center",
+        "originY": "center",
+        "fontSize": 22,
+        "customType": "description"
+      },
+      {
+        "top": 455,
+        "fill": "#000000",
+        "left": 400,
+        "text": "March 30 | Main Hall",
+        "type": "text",
+        "originX": "center",
+        "originY": "center",
+        "fontSize": 18,
+        "customType": "date"
+      }
+    ],
+    "version": "5.3.0"
+  },
+  "created_at": "2026-04-03T22:01:16.439109"
+}
